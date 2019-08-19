@@ -1,0 +1,58 @@
+.header {
+    background-color: blue;
+	color: white;
+	/*height: 60px;*/
+	padding: 20px 0;
+	text-align: left
+
+}
+
+header-wrapper {
+	justify-content: center;
+	display: flex;
+}
+.welcome {
+	color: white;
+	display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+	background-image: url(newyork.jpg);
+	background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+
+
+.footer{
+background-color: blue;
+	color: white;
+	height: 60px;
+	padding: 20px 0;
+	text-align: center;
+
+}
+.main-left{
+	height: 350px;
+	background-image: url(bumerann.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	top:20px;
+	background-image: url(IMG_7596.jpg);
+	text-align:left;
+	right:200px;
+}
+
+.welcome {
+	position: relative;
+}
+
+.welcome p{
+
+  color: white;
+  font-weight: bold;
+  font-size: 28px;
+  
+  }
+
